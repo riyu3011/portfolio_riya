@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(to right, #ff512f, #dd2476);
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.A{
+    text-align: center;
+    background-color: pink;
+    color: black;
+    font-family: "Times New Roman" ;
+    padding: 15px;
+}
+
+nav{
+    hover;
+    text-align: center;
+    background-color: lavender;
+    padding: 10px;
+    font-weight:bold;
+}
+
+nav a{
+    
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+
+.B{
+    text-align: center;
+    margin-top: 100px;
+}
+
+button{
+    padding: 10px 20px;
+    border: none;
+    background-color: white;
+    color: #dd2476;
+    border-radius: 5px;
+    cursor: pointer;
+}

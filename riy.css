@@ -1,0 +1,28 @@
+.projects{
+    text-align:center;
+    padding:20px;
+}
+
+.project-card{
+    width:70%;
+    margin:auto;
+    padding:20px;
+    background:white;
+    color:black;
+    border-radius:10px;
+    box-shadow:2px 2px 10px gray;
+}
+
+.project-card ul{
+    text-align:left;
+}
+h1{
+    text-decoration: underline ;
+}
+body{
+    background: linear-gradient(135deg, #f3e7ff, #d9e7ff);
+    color: black;
+}
+a{
+    text-decoration:none;
+}
